@@ -1,20 +1,11 @@
-.App {
-  text-align: center;
-}
+@import url('https://fonts.googleapis.com/css2?family=Martian+Mono&display=swap');
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+* {
+  font-family: 'Martian Mono', monospace;
 }
 
 .App-header {
-  background-color: #282c34;
+  background-image: radial-gradient(circle, #a29fba, #a598bd, #ac90be, #b686bb, #c17bb4, #c07ab4, #bf79b3, #be78b3, #b081b9, #a489ba, #9a8fb9, #9494b4);
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -24,15 +15,11 @@
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
+a {
+  text-decoration: none;
+  color: black;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+p {
+  margin-top: 500px;
 }

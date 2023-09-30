@@ -1,0 +1,87 @@
+* {
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    margin-top: -550px;
+    margin-left: 20vw;
+}
+
+.mainTitle {
+    font-size: 30px;
+    display: flex;
+    margin-left: -5vw;
+    font-weight: bold;
+}
+
+.breakControl {
+    margin-top: 50px;
+    margin-left: -200px;
+}
+
+.sessionControl {
+    margin-top: -100px;
+    margin-left: 200px;
+}
+
+button {
+    margin: 5px;
+    width: 18px;
+    height: 22px;
+    color: black;
+    color: white;
+    background-color: #be78b3;
+    border: 2px solid white;
+    border-radius: 5px;
+}
+
+.timer {
+    margin-top: 50px;
+    border: 2px solid white;
+    width: 300px;
+    height: 140px;
+    display: flex;
+    margin-left: -7vw;
+    justify-content: center;
+    border-radius: 5px;
+    padding-top: 10px;
+}
+
+.timeLeft {
+    margin-top: 70px;
+    font-size: 40px;
+    position: absolute;
+}
+
+.startStop {
+    margin-top: 35px;
+    position: absolute;
+    margin-left: -180px;
+    width: 90px;
+}
+
+.breakOn {
+    margin-top: 35px;
+    position: absolute;
+    margin-left: 20px;
+    width: 70px;
+}
+
+.reset {
+    margin-top: 35px;
+    position: absolute;
+    margin-left: 200px;
+    width: 70px;
+}
+
+.breakNumber {
+    margin-left: 5px;
+}
+
+.sessionNumber {
+    margin-left: 5px;
+}
