@@ -1,70 +1,56 @@
-# Getting Started with Create React App
+# Timer Clock ⏰ `eng`
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A simple pomodoro timer built with React to aid in personal productivity. This project was created to apply knowledge gained from courses and foundational projects from freeCodeCamp and Alura.
 
-## Available Scripts
+## Objective
 
-In the project directory, you can run:
+The main goal of this project is to provide a countdown timer for the pomodoro productivity technique. It allows setting a default session time of 25 minutes followed by a 5-minute break interval. Additionally, it offers the functionality to increase or decrease session and break times as needed.
 
-### `npm start`
+## Technologies
+- JavaScript
+- React: Used for building the user interface and managing states.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Roadmap 
+This project is under continuous improvement. Below are some planned enhancements for future versions:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- Implement an audible alarm when session or break time ends.
+- Enhance the user interface to improve user experience.
+- Automated testing to ensure application stability.
 
-### `npm test`
+## How to Run the Project
+1. Clone this repository.
+2. Install dependencies using `npm install`.
+3. Start the application with `npm start`.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Contribution 📌
+Contributions are welcome! Feel free to open issues or send pull requests for improvements.
 
-### `npm run build`
+***
+***
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# Timer Clock ⏰ `pt-br`
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Um temporizador pomodoro simples desenvolvido com React para ajudar na produtividade pessoal. Este projeto foi criado com o intuito de aplicar conhecimentos adquiridos em cursos e bases de projetos do freeCodeCamp e Alura.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Objetivo 
 
-### `npm run eject`
+O objetivo principal deste projeto é fornecer um timer com contagem regressiva para a técnica de produtividade pomodoro. Ele permite definir um tempo de sessão padrão de 25 minutos, seguido por um intervalo de pausa de 5 minutos. Além disso, oferece a funcionalidade de aumentar ou diminuir os tempos de sessão e pausa conforme necessário.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Tecnologias 
+- JavaScript
+- React: Utilizado para a construção da interface do usuário e gerenciamento de estados.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Roadmap 
+Este projeto está em constante evolução. Abaixo estão algumas melhorias planejadas para versões futuras:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- Implementar um alarme sonoro quando o tempo de sessão ou pausa terminar.
+- Aprimorar a interface do usuário para melhorar a experiência do usuário.
+- Testes automatizados para garantir a estabilidade do aplicativo.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Como executar o projeto 
+1. Clone este repositório.
+2. Instale as dependências usando `npm install`.
+3. Inicie o aplicativo com `npm start`.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Contribuição 📌
+Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas ou enviar pull requests para melhorias.
