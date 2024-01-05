@@ -9,6 +9,8 @@ The main goal of this project is to provide a countdown timer for the pomodoro p
 ## Technologies
 - JavaScript
 - React: Used for building the user interface and managing states.
+- HTML
+- CSS
 
 ## Roadmap 
 This project is under continuous improvement. Below are some planned enhancements for future versions:
@@ -39,6 +41,8 @@ O objetivo principal deste projeto é fornecer um timer com contagem regressiva 
 ## Tecnologias 
 - JavaScript
 - React: Utilizado para a construção da interface do usuário e gerenciamento de estados.
+- HTML
+- CSS
 
 ## Roadmap 
 Este projeto está em constante evolução. Abaixo estão algumas melhorias planejadas para versões futuras:
